@@ -60,20 +60,36 @@ Base nr: https://www.ncbi.nlm.nih.gov/protein/ / PDB: https://www.rcsb.org/
 VVGGLGGYMLGSAMSRPIIHFGSDYEDRYYRENMHRYPNQVYYRPMDEYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYYQRGSSMVLFSSPPVILLISFLIFLIVG
 ```
 
-**Parámetros:** BLASTp vs nr, Expect=100 (muy permisivo, trae hasta ruido),
-Max target seqs=20000 como pide la consigna (en la práctica usé 5000 para el
-XML porque 20000 tarda demasiado y el archivo se vuelve inmanejable; con esta
-query sobra — ver nota abajo), BLOSUM62, gap costs 11/1 (default NCBI).
-Después filtré cobertura >= 70% como pide la consigna.
+**Parámetros de la consigna:** BLAST con 20000 hits, E-value = 100 y filtro de
+cobertura mínima 70% sobre la secuencia de 133 aa, y discutir E-value vs % id,
+Score vs % id y Score vs E-value. La consigna no nombra ninguna base de datos
+(verificado en el TP fuente, línea 152); para BLASTp la base por defecto es
+**nr**, así que ese fue el objetivo.
 Script: `desafio_VII_blast.py`. Fecha: 2026-10-12.
-Jobs NCBI enviados el 2026-10-12 vía Biopython `NCBIWWW.qblast("blastp","nr",...)`
-(RID CUS70WUS016) quedaron en cola >30 min y se cancelaron con el reinicio
-del equipo. Los resultados de abajo son del BLASTp local (NCBI BLAST+ 2.17.0,
-`brew install blast`) contra Swiss-Prot (release con 575.748 seqs, descargada
-de `https://ftp.uniprot.org/pub/databases/uniprot/` y armada con `makeblastdb`),
-con los mismos Expect=100, BLOSUM62 y cobertura 70% — misma tendencia, ver
-nota al final de la sección. Reproducir con `python blast_local.py --db ...`
-y `python desafio_VII_blast.py --xml ...`.
+
+**Estado de la consigna: la búsqueda contra nr no pudo completarse** y lo que
+sigue es un **análisis alternativo contra Swiss-Prot**, identificado como tal.
+No lo doy por equivalente a nr: Swiss-Prot es solo el subconjunto revisado
+(~575 mil secuencias vs decenas de millones en nr), así que trae menos hits y
+E-values menos extremos. La tendencia cualitativa coincide, pero los conteos
+no son los pedidos.
+
+**Bloqueo concreto con nr:**
+
+1. Envié BLASTp remoto a NCBI (blastp, nr, Expect=100, HITLIST_SIZE=20000) vía
+   API URL con `blast_nr_job.py` (PUT → poll → GET, reanudable por RID).
+   Los primeros RIDs vencieron en cola (al consultarlos NCBI devuelve
+   Status=UNKNOWN: los descarta).
+2. Reenvié y obtuve RID vivo `CUVDXTFP014`: quedó en `WAITING`/`Searching`
+   más de 7 minutos (RTOE estimado por NCBI: ~21777 s ≈ 6 h) y cancelé el
+   polling para cerrar el TP con los resultados disponibles
+   (`resultados_VII_nr/VII_nr.rid` y `poll.log` documentan el intento; además
+   detecté y corregí un bug de parseo del bloque QBlastInfo en el script).
+3. Evalué BLAST local contra una copia de nr: inviable en esta sesión (base de
+   >100 GB; a ~0.7 MB/s medidos son decenas de horas solo de descarga).
+   Queda como vía de reproducción: `blast_nr_job.py` + `analizar_VII_nr.py`
+   (parseo del XML por streaming, cobertura por hit y figuras con piso
+   anotado para E=0).
 
 **Qué es la query:** es el C-terminal (residuos 121-253) de la proteína
 priónica humana PRNP (UniProt P04156, 253 aa). Verificado localmente:
@@ -83,55 +99,68 @@ más el péptido señal C-terminal hidrofóbico
 (`MVLFSSPPVILLISFLIFLIVG`). Por eso el BLAST devuelve priones
 de mamíferos casi idénticos.
 
-**Resultados reales (BLASTp local vs UniProt Swiss-Prot 2026-10-12, 575.748 seqs,**
-**BLOSUM62, Expect=100, 5000 targets, cobertura >= 70%):**
+**Análisis alternativo (Swiss-Prot, 2026-10-12):** BLASTp local (NCBI BLAST+
+2.17.0, `brew install blast`) contra Swiss-Prot (575.748 seqs, `makeblastdb`
+desde UniProt), BLOSUM62, Expect=100, Max targets=5000 (la consigna pide 20000;
+con esta query ultra-conservada los primeros 138 hits ya muestran la
+tendencia; en nr habría más priones con E=0.0 en vez de 1e-97 por el mayor
+tamaño de base). Tabla: `resultados_VII/resultados_VII.tsv`.
 
-* Hits totales: 138. Con cobertura >= 70%: 78.
-* E-value: mín 3.81e-97 (P04156 humano, 100% id), máx 77.5 (ruido).
-* % identidad: 21.6-100%. Bit score: 26.9-282.3.
-* Solo 1 hit con 100% identidad (el propio P04156); el resto son ortólogos.
-* Top 4: P04156 humano (100%, E=3.8e-97), P40252 gorila (99.25%, E=1.1e-96),
-  P61767/P61768 siamang/chimpancé (98.5%, E=5.7e-96). Tabla completa en
-  `resultados_VII/resultados_VII.tsv`.
+**Conteo por etapa (sobre lo devuelto por BLAST):**
 
-Nota sobre 20000 vs 5000 y nr vs Swiss-Prot: la consigna pide 20000 hits vs
-nr. Envié el job a NCBI el 2026-10-12 (RID CUS70WUS016, 5000 hits, Expect=100)
-pero quedó en cola >30 min; 20000 en nr además genera un XML de decenas de MB
-inmanejable para el TP. Como Swiss-Prot es el subconjunto revisado de nr y la
-query es ultra-conservada, los primeros 138 hits ya muestran la tendencia
-completa. La conclusión no cambia con nr: solo habría más priones
-(artiodáctilos, roedores, etc.) con E=0.0 en vez de 1e-97, porque nr es más
-grande. El script acepta `--xml` de nr sin cambios.
+| etapa | hits |
+|---|---|
+| Devueltos por BLAST (E-value <= 100, lo impone el umbral) | 138 |
+| Con E-value <= 100 | 138 |
+| Con cobertura >= 70% | 78 |
+| Final en gráficos | 78 |
 
-**Gráficos (generados por el script, `resultados_VII/`):**
+**Cómo se calculó la cobertura:** 100 × largo alineado del mejor HSP / 133
+(largo de la query), una fila por hit (mejor HSP = menor E-value). Es la
+cobertura del mejor alineamiento local, no la cobertura por hit sumando HSPs:
+si un hit tuviera varios HSPs dispersos, su cobertura real por hit sería mayor
+a la reportada. Para esta query de dominio único los hits son
+mayoritariamente de un solo HSP, así que la diferencia es despreciable, pero
+dejo constancia del criterio (`analizar_VII_nr.py` calcula ambas para nr).
 
-* `VII_Evalue_vs_identidad.png` — E-value (log) vs % identidad.
-* `VII_Score_vs_identidad.png` — bit score vs % identidad.
-* `VII_Score_vs_Evalue.png` — bit score vs E-value (log).
+**Rango de los 78:** E-value 3.81e-97 (P04156 humano, 100% id) a 77.5 (ruido);
+% identidad 21.6–100%; bit score 26.9–282.3. Un solo hit con 100% identidad
+(el propio P04156). Top 4: P04156 humano (100%, E=3.8e-97), P40252 gorila
+(99.25%, E=1.1e-96), P61767/P61768 siamang/chimpancé (98.5%, E=5.7e-96).
 
-**Lectura de los gráficos (con números reales):**
+**Gráficos (`figures/`, regenerados con `python graficar_VII.py` desde el TSV
+guardado; los PNG de `resultados_VII/` son la salida cruda del BLAST local):**
 
-1. **E-value vs % id** (`VII_Evalue_vs_identidad.png`, eje Y log): nube en "L"
-   invertida. De 100% a ~90% identidad el E se mantiene entre 1e-97 y 1e-80
-   (todos priones); abajo de ~70% el E sube a 1e-10 a 77.5. No es lineal
-   porque E = K·m·n·e^(-lambda·S). Dos hits con igual % id difieren en E si
-   difieren en cobertura: el filtro 70% ya sacó los peores, igual queda
-   dispersión de 2-3 órdenes a igual identidad.
+![E-value vs. porcentaje de identidad](figures/desafio-vii-evalue-vs-identidad.png)
 
-2. **Score vs % id** (`VII_Score_vs_identidad.png`): correlación positiva
-   clara. 100% → 282.3 bits; 99% → ~281; 90% → ~230; 50% → ~80; 21% → ~27.
-   La dispersión vertical a igual % id es por largo alineado y gaps
-   (BLOSUM62 premia matches, penaliza gaps 11/1).
+Se ve una nube en "L" invertida: de 100% a ~90% identidad el E se mantiene
+entre 1e-97 y 1e-80 (todos priones); abajo de ~70% sube hasta 77.5. Ojo con el
+hueco vacío entre 1e-10 y 1e-60: no hay hits intermedios, o es prión (E
+bajísimo) o es ruido (E alto). Como el E sale de una exponencial del score
+(E = K·m·n·e^(-lambda·S)), va en log sí o sí. A igual % id el E varía 2-3
+órdenes según cobertura. Dato: acá no hay ningún E=0 (mínimo 3.8e-97), así que
+el log no esconde nada.
 
-3. **Score vs E-value** (`VII_Score_vs_Evalue.png`, eje Y log): correlación
-   negativa fuerte. Score >200 = E <1e-70 (homólogos seguros); score <50 =
-   E >1 (ruido). Los priones se agrupan arriba-izquierda, el ruido
-   abajo-derecha. Es la forma visual de la fórmula del E-value.
+![Score vs. porcentaje de identidad](figures/desafio-vii-score-vs-identidad.png)
 
-Conclusión VII: con Expect=100 entra hasta ruido (E=77.5), pero el filtro
-cobertura 70% + mirar score/E juntos separa clarito homólogos reales
-(priones mamíferos, identidad >85%, E<1e-70, score >200) del fondo
-(identidad 21-50%, E>1, score <50).
+Correlación positiva clara: 100% → 282.3 bits; ~90% → ~230; ~50% → ~80;
+~21% → ~27. Tiene sentido porque BLOSUM62 premia matches. La dispersión
+vertical a igual % id es por largo alineado y gaps (penalidad 11/1). El punto
+suelto en (~78%, 186 bits) es un hit parcial con buena identidad pero corto:
+otro ejemplo de por qué la cobertura importa.
+
+![Score vs. E-value](figures/desafio-vii-score-vs-evalue.png)
+
+Correlación negativa fuerte en log: score >200 = E <1e-70 (homólogos seguros);
+score <50 = E >1 (ruido). Es la misma fórmula del E-value vista de frente, por
+eso los puntos caen casi en una recta. El eje Y dice escala log sin nota de
+piso porque no hay ceros que reubicar (verificado: `E=0: 0` al generar la
+figura; si los hubiera, el script los marca en el gráfico con su conteo).
+
+Conclusión VII: con Expect=100 entra hasta ruido (E=77.5), pero cobertura 70%
++ score/E juntos separan homólogos reales (priones mamíferos, id >85%,
+E<1e-70, score >200) del fondo (id 21-50%, E>1, score <50). Vale para
+Swiss-Prot; en nr esperaría lo mismo con más puntos y E-values aún menores.
 
 ---
 
