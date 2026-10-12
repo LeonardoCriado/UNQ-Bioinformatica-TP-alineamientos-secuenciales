@@ -1,0 +1,342 @@
+accession	descripcion	longitud	evalue	bit_score	score	identidades	alineamiento_len	identidad_%	cobertura_%
+Q3Z5H7	sp|Q3Z5H7|LPXA_SHISS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Shigella sonnei (strain S	262	0.0	533.872	1374.0	262	262	100.0	100.0
+P0A724	sp|P0A724|LPXA_SHIFL Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Shigella flexneri OX=623 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+Q32JS8	sp|Q32JS8|LPXA_SHIDS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Shigella dysenteriae sero	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7LW80	sp|B7LW80|LPXA_ESCF3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia fergusonii (s	262	0.0	533.872	1374.0	262	262	100.0	100.0
+Q1RG08	sp|Q1RG08|LPXA_ECOUT Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B1LGY3	sp|B1LGY3|LPXA_ECOSM Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B6HZF5	sp|B6HZF5|LPXA_ECOSE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7N848	sp|B7N848|LPXA_ECOLU Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O17:K52:	262	0.0	533.872	1374.0	262	262	100.0	100.0
+P0A722	sp|P0A722|LPXA_ECOLI Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B1IQG0	sp|B1IQG0|LPXA_ECOLC Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+P0A723	sp|P0A723|LPXA_ECOL6 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O6:H1 (s	262	0.0	533.872	1374.0	262	262	100.0	100.0
+Q0TLF2	sp|Q0TLF2|LPXA_ECOL5 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O6:K15:H	262	0.0	533.872	1374.0	262	262	100.0	100.0
+A1A7M5	sp|A1A7M5|LPXA_ECOK1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O1:K1 / 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+A7ZWC7	sp|A7ZWC7|LPXA_ECOHS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O9:H4 (s	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B1XD50	sp|B1XD50|LPXA_ECODH Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+C4ZRS3	sp|C4ZRS3|LPXA_ECOBW Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7M1Y4	sp|B7M1Y4|LPXA_ECO8A Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O8 (stra	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7MP41	sp|B7MP41|LPXA_ECO81 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O81 (str	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7NIE3	sp|B7NIE3|LPXA_ECO7I Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O7:K1 (s	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7LGP3	sp|B7LGP3|LPXA_ECO55 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7MBG2	sp|B7MBG2|LPXA_ECO45 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O45:K1 (	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7UJ82	sp|B7UJ82|LPXA_ECO27 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O127:H6 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+A7ZHS1	sp|A7ZHS1|LPXA_ECO24 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O139:H28	262	0.0	533.872	1374.0	262	262	100.0	100.0
+Q0T828	sp|Q0T828|LPXA_SHIF8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Shigella flexneri serotyp	262	0.0	531.946	1369.0	261	262	99.62	100.0
+B5Z0G0	sp|B5Z0G0|LPXA_ECO5E Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O157:H7 	262	0.0	531.946	1369.0	261	262	99.62	100.0
+Q8X8X8	sp|Q8X8X8|LPXA_ECO57 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O157:H7 	262	0.0	531.946	1369.0	261	262	99.62	100.0
+Q325V9	sp|Q325V9|LPXA_SHIBS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Shigella boydii serotype 	262	0.0	528.865	1361.0	260	262	99.24	100.0
+B2U324	sp|B2U324|LPXA_SHIB3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Shigella boydii serotype 	262	0.0	528.865	1361.0	260	262	99.24	100.0
+A4W6S6	sp|A4W6S6|LPXA_ENT38 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Enterobacter sp. (strain 	262	0.0	502.671	1293.0	243	262	92.75	100.0
+P32200	sp|P32200|LPXA_SALTY Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella typhimurium (s	262	0.0	502.286	1292.0	245	262	93.51	100.0
+B5BAN8	sp|B5BAN8|LPXA_SALPK Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella paratyphi A (s	262	0.0	502.286	1292.0	245	262	93.51	100.0
+C0Q6K4	sp|C0Q6K4|LPXA_SALPC Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella paratyphi C (s	262	0.0	502.286	1292.0	245	262	93.51	100.0
+A9N0T1	sp|A9N0T1|LPXA_SALPB Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella paratyphi B (s	262	0.0	502.286	1292.0	245	262	93.51	100.0
+Q5PD73	sp|Q5PD73|LPXA_SALPA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella paratyphi A (s	262	0.0	502.286	1292.0	245	262	93.51	100.0
+B4SV10	sp|B4SV10|LPXA_SALNS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella newport (strai	262	0.0	502.286	1292.0	245	262	93.51	100.0
+B4TK56	sp|B4TK56|LPXA_SALHS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella heidelberg (st	262	0.0	502.286	1292.0	244	262	93.13	100.0
+B5RHG6	sp|B5RHG6|LPXA_SALG2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella gallinarum (st	262	0.0	502.286	1292.0	245	262	93.51	100.0
+B5R420	sp|B5R420|LPXA_SALEP Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella enteritidis PT	262	0.0	502.286	1292.0	245	262	93.51	100.0
+Q57T27	sp|Q57T27|LPXA_SALCH Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella choleraesuis (	262	0.0	502.286	1292.0	245	262	93.51	100.0
+B5F8U2	sp|B5F8U2|LPXA_SALA4 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella agona (strain 	262	0.0	502.286	1292.0	245	262	93.51	100.0
+Q8Z9A2	sp|Q8Z9A2|LPXA_SALTI Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella typhi OX=90370	262	0.0	501.13	1289.0	244	262	93.13	100.0
+B4TYE1	sp|B4TYE1|LPXA_SALSV Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella schwarzengrund	262	0.0	501.13	1289.0	244	262	93.13	100.0
+B5FJ28	sp|B5FJ28|LPXA_SALDC Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella dublin (strain	262	0.0	501.13	1289.0	244	262	93.13	100.0
+A7MI18	sp|A7MI18|LPXA_CROS8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Cronobacter sakazakii (st	262	0.0	500.745	1288.0	243	262	92.75	100.0
+B5Y1J0	sp|B5Y1J0|LPXA_KLEV3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Klebsiella variicola (str	262	2.17102e-180	499.204	1284.0	242	262	92.37	100.0
+A9MPI0	sp|A9MPI0|LPXA_SALAR Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Salmonella arizonae (stra	262	2.73339e-180	498.819	1283.0	242	262	92.37	100.0
+A6T4Y3	sp|A6T4Y3|LPXA_KLEP7 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Klebsiella pneumoniae sub	262	2.82932e-178	493.812	1270.0	237	262	90.46	100.0
+Q6D8D1	sp|Q6D8D1|LPXA_PECAS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pectobacterium atroseptic	262	3.86352e-169	470.7	1210.0	226	262	86.26	100.0
+C6DAJ5	sp|C6DAJ5|LPXA_PECCP Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pectobacterium carotovoru	262	5.79685e-169	470.315	1209.0	226	262	86.26	100.0
+P32201	sp|P32201|LPXA_YEREN Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Yersinia enterocolitica O	262	7.62815e-166	462.225	1188.0	219	262	83.59	100.0
+A1JP69	sp|A1JP69|LPXA_YERE8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Yersinia enterocolitica s	262	1.14449e-165	461.84	1187.0	220	262	83.97	100.0
+B1JQH2	sp|B1JQH2|LPXA_YERPY Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Yersinia pseudotuberculos	262	7.96971e-164	457.218	1175.0	214	262	81.68	100.0
+Q667K1	sp|Q667K1|LPXA_YERPS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Yersinia pseudotuberculos	262	7.96971e-164	457.218	1175.0	214	262	81.68	100.0
+A4TL79	sp|A4TL79|LPXA_YERPP Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Yersinia pestis (strain P	262	7.96971e-164	457.218	1175.0	214	262	81.68	100.0
+Q1CFF9	sp|Q1CFF9|LPXA_YERPN Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Yersinia pestis bv. Antiq	262	7.96971e-164	457.218	1175.0	214	262	81.68	100.0
+A9R384	sp|A9R384|LPXA_YERPG Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Yersinia pestis bv. Antiq	262	7.96971e-164	457.218	1175.0	214	262	81.68	100.0
+Q8ZH56	sp|Q8ZH56|LPXA_YERPE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Yersinia pestis OX=632 GN	262	7.96971e-164	457.218	1175.0	214	262	81.68	100.0
+B2JZ22	sp|B2JZ22|LPXA_YERPB Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Yersinia pseudotuberculos	262	7.96971e-164	457.218	1175.0	214	262	81.68	100.0
+Q1CAM2	sp|Q1CAM2|LPXA_YERPA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Yersinia pestis bv. Antiq	262	7.96971e-164	457.218	1175.0	214	262	81.68	100.0
+A7FFI1	sp|A7FFI1|LPXA_YERP3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Yersinia pseudotuberculos	262	7.96971e-164	457.218	1175.0	214	262	81.68	100.0
+B2VHX8	sp|B2VHX8|LPXA_ERWT9 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Erwinia tasmaniensis (str	262	3.24164e-161	450.669	1158.0	211	262	80.53	100.0
+A8GID4	sp|A8GID4|LPXA_SERP5 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Serratia proteamaculans (	262	4.65146e-159	445.277	1144.0	212	262	80.92	100.0
+Q7N8N5	sp|Q7N8N5|LPXA_PHOLL Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Photorhabdus laumondii su	262	1.24023e-150	423.705	1088.0	195	262	74.43	100.0
+Q2NRL9	sp|Q2NRL9|LPXA_SODGM Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Sodalis glossinidius (str	262	1.94379e-150	423.32	1087.0	199	262	75.95	100.0
+P72215	sp|P72215|LPXA_PROMI Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Proteus mirabilis OX=584 	267	5.4955e-146	412.149	1058.0	194	267	72.66	101.91
+B4F258	sp|B4F258|LPXA_PROMH Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Proteus mirabilis (strain	267	5.4955e-146	412.149	1058.0	194	267	72.66	101.91
+Q65VE2	sp|Q65VE2|LPXA_MANSM Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Mannheimia succiniciprodu	262	5.99475e-141	399.438	1025.0	188	262	71.76	100.0
+B0UW61	sp|B0UW61|LPXA_HISS2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Histophilus somni (strain	262	1.27663e-140	398.667	1023.0	191	262	72.9	100.0
+Q0I4M4	sp|Q0I4M4|LPXA_HISS1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Histophilus somni (strain	262	2.43657e-140	397.897	1021.0	191	262	72.9	100.0
+A3MZC5	sp|A3MZC5|LPXA_ACTP2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Actinobacillus pleuropneu	264	3.63392e-140	397.512	1020.0	182	262	69.47	100.0
+B3H0S1	sp|B3H0S1|LPXA_ACTP7 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Actinobacillus pleuropneu	264	9.4251e-140	396.356	1017.0	181	262	69.08	100.0
+Q9CJK8	sp|Q9CJK8|LPXA_PASMU Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pasteurella multocida (st	262	1.16472e-138	393.66	1010.0	186	262	70.99	100.0
+B8F6B1	sp|B8F6B1|LPXA_GLAP5 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Glaesserella parasuis ser	264	1.37992e-138	393.275	1009.0	181	262	69.08	100.0
+Q7VRD4	sp|Q7VRD4|LPXA_BLOFL Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Blochmanniella floridana 	262	9.13284e-138	391.349	1004.0	177	262	67.56	100.0
+A6VQJ6	sp|A6VQJ6|LPXA_ACTSZ Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Actinobacillus succinogen	262	6.21028e-137	389.037	998.0	186	262	70.99	100.0
+Q7VM26	sp|Q7VM26|LPXA_HAEDU Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Haemophilus ducreyi (stra	264	1.94519e-135	385.571	989.0	176	262	67.18	100.0
+A5UD43	sp|A5UD43|LPXA_HAEIE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Haemophilus influenzae (s	262	1.34858e-131	375.555	963.0	180	262	68.7	100.0
+Q4QLM5	sp|Q4QLM5|LPXA_HAEI8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Haemophilus influenzae (s	262	7.86235e-131	373.629	958.0	178	262	67.94	100.0
+Q493C0	sp|Q493C0|LPXA_BLOPB Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Blochmanniella pennsylvan	262	7.94892e-131	373.629	958.0	173	262	66.03	100.0
+P43887	sp|P43887|LPXA_HAEIN Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Haemophilus influenzae (s	262	1.82698e-130	372.859	956.0	177	262	67.56	100.0
+Q7MIH1	sp|Q7MIH1|LPXA_VIBVY Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Vibrio vulnificus (strain	262	1.17155e-128	368.237	944.0	178	262	67.94	100.0
+Q8DBE9	sp|Q8DBE9|LPXA_VIBVU Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Vibrio vulnificus (strain	262	1.17155e-128	368.237	944.0	178	262	67.94	100.0
+Q8D2H3	sp|Q8D2H3|LPXA_WIGBR Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Wigglesworthia glossinidi	262	6.05361e-128	366.311	939.0	161	262	61.45	100.0
+C3LQ20	sp|C3LQ20|LPXA_VIBCM Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Vibrio cholerae serotype 	262	8.97822e-128	365.925	938.0	179	262	68.32	100.0
+Q9KPW4	sp|Q9KPW4|LPXA_VIBCH Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Vibrio cholerae serotype 	262	8.97822e-128	365.925	938.0	179	262	68.32	100.0
+A5F628	sp|A5F628|LPXA_VIBC3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Vibrio cholerae serotype 	262	8.97822e-128	365.925	938.0	179	262	68.32	100.0
+B5F9W4	sp|B5F9W4|LPXA_ALIFM Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Aliivibrio fischeri (stra	262	3.71588e-112	326.635	836.0	156	262	59.54	100.0
+Q5E3F1	sp|Q5E3F1|LPXA_ALIF1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Aliivibrio fischeri (stra	262	3.71588e-112	326.635	836.0	156	262	59.54	100.0
+A7MY03	sp|A7MY03|LPXA_VIBC1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Vibrio campbellii (strain	262	1.68088e-111	324.709	831.0	157	262	59.92	100.0
+Q87ME9	sp|Q87ME9|LPXA_VIBPA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Vibrio parahaemolyticus s	262	8.29795e-111	323.168	827.0	156	262	59.54	100.0
+B6EJW8	sp|B6EJW8|LPXA_ALISL Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Aliivibrio salmonicida (s	262	1.41805e-110	322.398	825.0	152	262	58.02	100.0
+A4SQH0	sp|A4SQH0|LPXA_AERS4 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Aeromonas salmonicida (st	263	1.92891e-110	322.013	824.0	151	262	57.63	100.0
+C4K437	sp|C4K437|LPXA_HAMD5 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Hamiltonella defensa subs	267	6.11547e-110	320.857	821.0	154	268	57.46	102.29
+A0KHH5	sp|A0KHH5|LPXA_AERHH Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Aeromonas hydrophila subs	263	1.07376e-109	320.087	819.0	147	262	56.11	100.0
+C4L852	sp|C4L852|LPXA_TOLAT Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Tolumonas auensis (strain	263	5.7838e-109	318.546	815.0	152	262	58.02	100.0
+Q3SKM9	sp|Q3SKM9|LPXA_THIDA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Thiobacillus denitrifican	258	3.22284e-100	296.204	757.0	141	257	54.86	98.09
+A4JF63	sp|A4JF63|LPXA_BURVG Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia vietnamiensi	262	6.09677e-100	295.434	755.0	145	259	55.98	98.85
+Q0BE27	sp|Q0BE27|LPXA_BURCM Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia ambifaria (s	262	7.18238e-100	295.434	755.0	144	259	55.6	98.85
+B1YS62	sp|B1YS62|LPXA_BURA4 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia ambifaria (s	262	1.25382e-99	294.664	753.0	144	259	55.6	98.85
+B3R2A5	sp|B3R2A5|LPXA_CUPTR Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Cupriavidus taiwanensis (	267	1.90707e-99	294.278	752.0	144	264	54.55	100.76
+A9AIM6	sp|A9AIM6|LPXA_BURM1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia multivorans 	262	3.73823e-99	293.508	750.0	142	259	54.83	98.85
+Q1BHH0	sp|Q1BHH0|LPXA_BURO1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia orbicola (st	262	7.85713e-99	292.738	748.0	142	259	54.83	98.85
+B1JUD8	sp|B1JUD8|LPXA_BURO0 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia orbicola (st	262	7.85713e-99	292.738	748.0	142	259	54.83	98.85
+A0K8D1	sp|A0K8D1|LPXA_BURCH Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia cenocepacia 	262	7.85713e-99	292.738	748.0	142	259	54.83	98.85
+B4ECL9	sp|B4ECL9|LPXA_BURCJ Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia cenocepacia 	262	8.20804e-99	292.738	748.0	142	259	54.83	98.85
+Q0KA28	sp|Q0KA28|LPXA_CUPNH Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Cupriavidus necator (stra	267	1.42287e-98	292.352	747.0	144	264	54.55	100.76
+Q470E9	sp|Q470E9|LPXA_CUPPJ Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Cupriavidus pinatubonensi	267	2.5108e-98	291.582	745.0	142	264	53.79	100.76
+A4SYT9	sp|A4SYT9|LPXA_POLAQ Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Polynucleobacter asymbiot	265	1.18218e-97	289.656	740.0	133	262	50.76	100.0
+Q39F55	sp|Q39F55|LPXA_BURL3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia lata (strain	262	1.23217e-97	289.656	740.0	140	259	54.05	98.85
+Q63T24	sp|Q63T24|LPXA_BURPS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia pseudomallei	262	1.27322e-97	289.656	740.0	137	259	52.9	98.85
+A3NAT5	sp|A3NAT5|LPXA_BURP6 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia pseudomallei	262	1.27322e-97	289.656	740.0	137	259	52.9	98.85
+Q3JR41	sp|Q3JR41|LPXA_BURP1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia pseudomallei	262	1.27322e-97	289.656	740.0	137	259	52.9	98.85
+A3NWL8	sp|A3NWL8|LPXA_BURP0 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia pseudomallei	262	1.27322e-97	289.656	740.0	137	259	52.9	98.85
+A1V556	sp|A1V556|LPXA_BURMS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia mallei (stra	262	1.27322e-97	289.656	740.0	137	259	52.9	98.85
+Q62JD6	sp|Q62JD6|LPXA_BURMA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia mallei (stra	262	1.27322e-97	289.656	740.0	137	259	52.9	98.85
+A2SB85	sp|A2SB85|LPXA_BURM9 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia mallei (stra	262	1.27322e-97	289.656	740.0	137	259	52.9	98.85
+A3MKT0	sp|A3MKT0|LPXA_BURM7 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia mallei (stra	262	1.27322e-97	289.656	740.0	137	259	52.9	98.85
+A6SZN9	sp|A6SZN9|LPXA_JANMA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Janthinobacterium sp. (st	262	1.19463e-96	286.96	733.0	139	261	53.26	99.62
+Q2SWY6	sp|Q2SWY6|LPXA_BURTA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Burkholderia thailandensi	262	1.22101e-96	286.96	733.0	135	259	52.12	98.85
+A1SYV1	sp|A1SYV1|LPXA_PSYIN Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Psychromonas ingrahamii (	262	3.56044e-96	285.804	730.0	137	262	52.29	100.0
+B7VIQ6	sp|B7VIQ6|LPXA_VIBA3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Vibrio atlanticus (strain	262	5.10512e-96	285.419	729.0	138	262	52.67	100.0
+A4G4T3	sp|A4G4T3|LPXA_HERAR Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Herminiimonas arsenicoxyd	262	7.24041e-96	285.034	728.0	137	261	52.49	99.62
+A4XWS9	sp|A4XWS9|LPXA_ECTM1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Ectopseudomonas mendocina	258	2.01542e-95	283.878	725.0	140	255	54.9	97.33
+B2JIB4	sp|B2JIB4|LPXA_PARP8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Paraburkholderia phymatum	262	3.76558e-95	283.493	724.0	136	259	52.51	98.85
+A4VJT3	sp|A4VJT3|LPXA_STUS1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Stutzerimonas stutzeri (s	258	1.18206e-94	281.952	720.0	137	257	53.31	98.09
+B1XTV5	sp|B1XTV5|LPXA_POLNS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Polynucleobacter necessar	265	4.25766e-94	280.796	717.0	131	262	50.0	100.0
+Q1LNE6	sp|Q1LNE6|LPXA_CUPMC Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Cupriavidus metallidurans	267	2.05221e-93	279.256	713.0	136	264	51.52	100.76
+Q13XC8	sp|Q13XC8|LPXA_PARXL Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Paraburkholderia xenovora	262	4.11734e-93	278.1	710.0	134	259	51.74	98.85
+B2T5I2	sp|B2T5I2|LPXA_PARPJ Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Paraburkholderia phytofir	262	7.42357e-93	277.33	708.0	132	259	50.97	98.85
+B2UBB3	sp|B2UBB3|LPXA_RALPJ Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Ralstonia pickettii (stra	271	4.36412e-92	275.789	704.0	133	265	50.19	101.15
+Q8XZH9	sp|Q8XZH9|LPXA_RALN1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Ralstonia nicotianae (str	271	3.14466e-91	273.863	699.0	131	265	49.43	101.15
+C1DST4	sp|C1DST4|LPXA_AZOVD Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Azotobacter vinelandii (s	258	4.29763e-91	272.707	696.0	132	257	51.36	98.09
+A6V1E4	sp|A6V1E4|LPXA_PSEP7 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas paraeruginosa	258	4.48941e-91	272.707	696.0	140	257	54.47	98.09
+Q9X6P4	sp|Q9X6P4|LPXA_PSEAE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas aeruginosa (s	258	4.48941e-91	272.707	696.0	140	257	54.47	98.09
+Q02RB6	sp|Q02RB6|LPXA_PSEAB Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas aeruginosa (s	258	4.48941e-91	272.707	696.0	140	257	54.47	98.09
+B7V7U4	sp|B7V7U4|LPXA_PSEA8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas aeruginosa (s	258	4.48941e-91	272.707	696.0	140	257	54.47	98.09
+C3K607	sp|C3K607|LPXA_PSEFS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas fluorescens (	258	1.41213e-90	271.552	693.0	132	257	51.36	98.09
+A5WGE2	sp|A5WGE2|LPXA_PSYWF Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Psychrobacter sp. (strain	259	2.0473e-90	271.166	692.0	135	256	52.73	97.71
+Q4ZWR6	sp|Q4ZWR6|LPXA_PSEU2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas syringae pv. 	258	2.77798e-90	270.781	691.0	135	257	52.53	98.09
+Q1I638	sp|Q1I638|LPXA_PSEE4 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas entomophila (	258	3.23655e-90	270.781	691.0	131	255	51.37	97.33
+Q886N1	sp|Q886N1|LPXA_PSESM Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas syringae pv. 	258	3.72988e-90	270.396	690.0	138	262	52.67	100.0
+C5CKT2	sp|C5CKT2|LPXA_VARPS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Variovorax paradoxus (str	262	8.55859e-90	269.626	688.0	130	259	50.19	98.85
+A9M3T0	sp|A9M3T0|LPXA_NEIM0 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Neisseria meningitidis se	258	1.22539e-89	269.24	687.0	124	256	48.44	97.71
+A1WHV4	sp|A1WHV4|LPXA_VEREI Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Verminephrobacter eisenia	262	1.44495e-89	269.24	687.0	131	259	50.58	98.85
+Q3KHA0	sp|Q3KHA0|LPXA_PSEPF Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas fluorescens (	258	1.93781e-89	268.855	686.0	133	262	50.76	100.0
+B4RR10	sp|B4RR10|LPXA_NEIG2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Neisseria gonorrhoeae (st	258	1.95907e-89	268.47	685.0	125	256	48.83	97.71
+Q5F5W3	sp|Q5F5W3|LPXA_NEIG1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Neisseria gonorrhoeae (st	258	1.95907e-89	268.47	685.0	125	256	48.83	97.71
+B1JBP8	sp|B1JBP8|LPXA_PSEPW Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas putida (strai	258	2.28242e-89	268.47	685.0	133	255	52.16	97.33
+Q9JX26	sp|Q9JX26|LPXA_NEIMA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Neisseria meningitidis se	258	3.72943e-89	268.085	684.0	123	256	48.05	97.71
+A1KRK9	sp|A1KRK9|LPXA_NEIMF Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Neisseria meningitidis se	258	6.36557e-89	267.314	682.0	123	256	48.05	97.71
+P95379	sp|P95379|LPXA_NEIMB Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Neisseria meningitidis se	258	1.22503e-88	266.544	680.0	122	256	47.66	97.71
+B0KSB1	sp|B0KSB1|LPXA_PSEPG Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas putida (strai	258	1.13426e-87	264.233	674.0	131	255	51.37	97.33
+Q88MG8	sp|Q88MG8|LPXA_PSEPK Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas putida (strai	258	1.2377e-87	264.233	674.0	131	255	51.37	97.33
+A5W838	sp|A5W838|LPXA_PSEP1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas putida (strai	258	1.2377e-87	264.233	674.0	131	255	51.37	97.33
+Q21HI4	sp|Q21HI4|LPXA_SACD2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Saccharophagus degradans 	258	1.4108e-87	263.848	673.0	128	256	50.0	97.71
+A1TN81	sp|A1TN81|LPXA_PARC0 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Paracidovorax citrulli (s	262	1.97952e-87	263.848	673.0	129	259	49.81	98.85
+Q4KHG4	sp|Q4KHG4|LPXA_PSEF5 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas fluorescens (	258	4.5329e-87	262.692	670.0	134	257	52.14	98.09
+A1WX11	sp|A1WX11|LPXA_HALHL Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Halorhodospira halophila 	258	1.19669e-86	261.536	667.0	127	255	49.8	97.33
+Q8RFU2	sp|Q8RFU2|LPXA_FUSNN Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Fusobacterium nucleatum s	257	1.50456e-86	261.151	666.0	131	255	51.37	97.33
+A8EWV5	sp|A8EWV5|LPXA_ALIB4 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Aliarcobacter butzleri (s	260	1.01481e-85	259.225	661.0	123	253	48.62	96.56
+Q48F71	sp|Q48F71|LPXA_PSE14 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Pseudomonas savastanoi pv	258	1.51917e-85	258.84	660.0	136	262	51.91	100.0
+Q0A7J1	sp|Q0A7J1|LPXA_ALKEH Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Alkalilimnicola ehrlichii	258	2.29509e-84	255.758	652.0	125	261	47.89	99.62
+Q4FRI4	sp|Q4FRI4|LPXA_PSYA2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Psychrobacter arcticus (s	259	4.46276e-84	254.988	650.0	121	256	47.27	97.71
+Q1QA21	sp|Q1QA21|LPXA_PSYCK Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Psychrobacter cryohalolen	259	1.09107e-83	254.218	648.0	121	256	47.27	97.71
+B5YHC0	sp|B5YHC0|LPXA_THEYD Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Thermodesulfovibrio yello	258	2.21643e-83	253.447	646.0	125	255	49.02	97.33
+Q21WX8	sp|Q21WX8|LPXA_ALBFT Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Albidiferax ferrireducens	264	1.27993e-82	251.521	641.0	122	261	46.74	99.62
+B1XXI3	sp|B1XXI3|LPXA_LEPCP Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Leptothrix cholodnii (str	264	2.16727e-80	245.743	626.0	123	263	46.77	100.38
+Q2LVL6	sp|Q2LVL6|LPXA_SYNAS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Syntrophus aciditrophicus	258	8.63412e-79	241.506	615.0	123	258	47.67	98.47
+A6Q9A7	sp|A6Q9A7|LPXA_SULNB Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Sulfurovum sp. (strain NB	260	2.813e-77	237.654	605.0	119	253	47.04	96.56
+B2V7U3	sp|B2V7U3|LPXA_SULSY Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Sulfurihydrogenibium sp. 	271	5.97245e-77	237.269	604.0	113	253	44.66	96.56
+Q1D387	sp|Q1D387|LPXA_MYXXD Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Myxococcus xanthus (strai	258	8.88431e-76	233.802	595.0	124	258	48.06	98.47
+A1B8X9	sp|A1B8X9|LPXA_PARDP Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Paracoccus denitrificans 	261	1.61265e-75	233.417	594.0	119	246	48.37	93.89
+A7H9D6	sp|A7H9D6|LPXA_ANADF Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Anaeromyxobacter sp. (str	257	1.17299e-74	231.106	588.0	114	255	44.71	97.33
+O66862	sp|O66862|LPXA_AQUAE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Aquifex aeolicus (strain 	261	2.25394e-73	228.024	580.0	121	257	47.08	98.09
+B9L772	sp|B9L772|LPXA_NAUPA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Nautilia profundicola (st	259	3.7663e-73	227.254	578.0	116	242	47.93	92.37
+B4SQ11	sp|B4SQ11|LPXA_STRM5 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Stenotrophomonas maltophi	263	3.56204e-72	224.942	572.0	121	263	46.01	100.38
+B2FHN6	sp|B2FHN6|LPXA_STRMK Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Stenotrophomonas maltophi	263	3.68015e-72	224.942	572.0	121	263	46.01	100.38
+B3E4H5	sp|B3E4H5|LPXA_TRIL1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Trichlorobacter lovleyi (	261	1.24699e-71	223.402	568.0	119	268	44.4	102.29
+B4UGV2	sp|B4UGV2|LPXA_ANASK Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Anaeromyxobacter sp. (str	257	3.37085e-71	222.246	565.0	115	256	44.92	97.71
+B8GWR1	sp|B8GWR1|LPXA_CAUVN Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Caulobacter vibrioides (s	263	4.9476e-71	221.861	564.0	114	245	46.53	93.51
+Q9A715	sp|Q9A715|LPXA_CAUVC Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Caulobacter vibrioides (s	263	4.9476e-71	221.861	564.0	114	245	46.53	93.51
+Q2IPX7	sp|Q2IPX7|LPXA_ANADE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Anaeromyxobacter dehaloge	257	1.21611e-70	220.705	561.0	113	256	44.14	97.71
+B8JFW9	sp|B8JFW9|LPXA_ANAD2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Anaeromyxobacter dehaloge	257	1.21611e-70	220.705	561.0	113	256	44.14	97.71
+B2ULY0	sp|B2ULY0|LPXA_AKKM8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Akkermansia muciniphila (	259	1.39714e-70	220.705	561.0	117	257	45.53	98.09
+Q9PEI5	sp|Q9PEI5|LPXA_XYLFA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Xylella fastidiosa (strai	263	2.36693e-70	220.32	560.0	115	263	43.73	100.38
+Q3BVL6	sp|Q3BVL6|LPXA_XANE5 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Xanthomonas euvesicatoria	263	3.24394e-70	219.935	559.0	119	263	45.25	100.38
+Q87EI4	sp|Q87EI4|LPXA_XYLFT Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Xylella fastidiosa (strai	263	3.81834e-70	219.935	559.0	115	263	43.73	100.38
+Q8PML7	sp|Q8PML7|LPXA_XANC3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Xanthomonas citri pv. cit	263	4.95626e-70	219.55	558.0	119	263	45.25	100.38
+B3QR04	sp|B3QR04|LPXA_CHLP8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlorobaculum parvum (str	264	2.84647e-69	217.624	553.0	111	253	43.87	96.56
+B1LTP4	sp|B1LTP4|LPXA_METRJ Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Methylobacterium radiotol	272	3.1996e-69	217.624	553.0	119	245	48.57	93.51
+Q30QJ1	sp|Q30QJ1|LPXA_SULDN Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Sulfurimonas denitrifican	261	9.97686e-69	216.083	549.0	119	253	47.04	96.56
+Q8PAW5	sp|Q8PAW5|LPXA_XANCP Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Xanthomonas campestris pv	263	1.07312e-68	216.083	549.0	118	263	44.87	100.38
+B0RW78	sp|B0RW78|LPXA_XANCB Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Xanthomonas campestris pv	263	1.07312e-68	216.083	549.0	118	263	44.87	100.38
+Q4USP8	sp|Q4USP8|LPXA_XANC8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Xanthomonas campestris pv	263	1.07312e-68	216.083	549.0	118	263	44.87	100.38
+Q5H1F2	sp|Q5H1F2|LPXA_XANOR Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Xanthomonas oryzae pv. or	263	1.22255e-68	216.083	549.0	119	263	45.25	100.38
+B2SR11	sp|B2SR11|LPXA_XANOP Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Xanthomonas oryzae pv. or	263	1.22255e-68	216.083	549.0	119	263	45.25	100.38
+Q2P4B7	sp|Q2P4B7|LPXA_XANOM Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Xanthomonas oryzae pv. or	263	1.22255e-68	216.083	549.0	119	263	45.25	100.38
+A8I491	sp|A8I491|LPXA_AZOC5 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Azorhizobium caulinodans 	271	3.03499e-68	215.312	547.0	110	247	44.53	94.27
+A0LPR7	sp|A0LPR7|LPXA_SYNFM Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Syntrophobacter fumaroxid	258	1.10609e-67	213.386	542.0	115	256	44.92	97.71
+Q68XZ6	sp|Q68XZ6|LPXA_RICTY Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia typhi (strain 	264	1.43665e-67	213.386	542.0	107	251	42.63	95.8
+Q9ZED5	sp|Q9ZED5|LPXA_RICPR Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia prowazekii (st	264	1.50043e-67	213.001	541.0	107	251	42.63	95.8
+Q1RH96	sp|Q1RH96|LPXA_RICBR Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia bellii (strain	281	7.967e-67	211.846	538.0	106	247	42.91	94.27
+A8GUZ4	sp|A8GUZ4|LPXA_RICB8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia bellii (strain	281	7.967e-67	211.846	538.0	106	247	42.91	94.27
+B9JX23	sp|B9JX23|LPXA_GILA4 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Gillisella ampelina (stra	271	1.68463e-66	210.69	535.0	116	261	44.44	99.62
+B3PYQ2	sp|B3PYQ2|LPXA_RHIE6 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rhizobium etli (strain CI	272	2.25345e-66	210.305	534.0	112	253	44.27	96.56
+A8GQC8	sp|A8GQC8|LPXA_RICRS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia rickettsii (st	264	2.75398e-66	209.92	533.0	108	257	42.02	98.09
+B0BVR3	sp|B0BVR3|LPXA_RICRO Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia rickettsii (st	264	2.75398e-66	209.92	533.0	108	257	42.02	98.09
+P32199	sp|P32199|LPXA_RICRI Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia rickettsii OX=	264	2.75398e-66	209.92	533.0	108	257	42.02	98.09
+A8EX76	sp|A8EX76|LPXA_RICCK Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia canadensis (st	264	3.65205e-66	209.534	532.0	105	251	41.83	95.8
+Q4UNJ9	sp|Q4UNJ9|LPXA_RICFE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia felis (strain 	264	4.68776e-66	209.534	532.0	107	257	41.63	98.09
+Q820F0	sp|Q820F0|LPXA_CHLCV Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlamydia caviae (strain 	279	7.23755e-66	209.534	532.0	116	256	45.31	97.71
+C3PM36	sp|C3PM36|LPXA_RICAE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia africae (strai	264	8.06615e-66	208.764	530.0	108	257	42.02	98.09
+C3MBR2	sp|C3MBR2|LPXA_SINFN Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Sinorhizobium fredii (str	270	1.54449e-65	208.379	529.0	112	261	42.91	99.62
+Q92JQ9	sp|Q92JQ9|LPXA_RICCN Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia conorii (strai	264	2.1192e-65	207.608	527.0	107	257	41.63	98.09
+C4K0C1	sp|C4K0C1|LPXA_RICPU Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rickettsia peacockii (str	264	5.10409e-65	206.838	525.0	107	257	41.63	98.09
+Q9Z7Q4	sp|Q9Z7Q4|LPXA_CHLPN Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlamydia pneumoniae OX=8	279	2.2508e-64	205.682	522.0	114	258	44.19	98.47
+Q252V0	sp|Q252V0|LPXA_CHLFF Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlamydia felis (strain F	279	2.30013e-64	205.682	522.0	112	256	43.75	97.71
+B9JEY0	sp|B9JEY0|LPXA_RHIR8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rhizobium rhizogenes (str	271	2.78997e-64	204.912	520.0	113	253	44.66	96.56
+Q46481	sp|Q46481|LPXA_ALLVD Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Allochromatium vinosum (s	258	5.10014e-64	203.756	517.0	111	255	43.53	97.33
+Q5L723	sp|Q5L723|LPXA_CHLAB Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlamydia abortus (strain	279	5.47451e-64	204.527	519.0	116	256	45.31	97.71
+Q55746	sp|Q55746|LPXA_SYNY3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Synechocystis sp. (strain	276	1.87769e-63	202.986	515.0	109	253	43.08	96.56
+A1BIY4	sp|A1BIY4|LPXA_CHLPD Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlorobium phaeobacteroid	264	4.04113e-63	201.83	512.0	107	253	42.29	96.56
+Q8KAZ0	sp|Q8KAZ0|LPXA_CHLTE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlorobaculum tepidum (st	264	1.1569e-62	200.675	509.0	107	248	43.15	94.66
+Q2K8X7	sp|Q2K8X7|LPXA_RHIEC Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rhizobium etli (strain AT	272	1.21054e-62	201.06	510.0	108	253	42.69	96.56
+Q92Q45	sp|Q92Q45|LPXA_RHIME Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rhizobium meliloti (strai	270	3.7967e-62	199.519	506.0	109	261	41.76	99.62
+B5ZN93	sp|B5ZN93|LPXA_RHILW Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rhizobium leguminosarum b	272	5.51862e-62	199.134	505.0	113	260	43.46	99.24
+Q1MH44	sp|Q1MH44|LPXA_RHIJ3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rhizobium johnstonii (str	272	1.37108e-61	198.364	503.0	108	253	42.69	96.56
+Q8VQ21	sp|Q8VQ21|LPXA_BARHE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Bartonella henselae (stra	274	1.82677e-61	197.978	502.0	104	244	42.62	93.13
+A7GWE8	sp|A7GWE8|LPXA_CAMC5 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Campylobacter curvus (str	262	1.20271e-60	195.282	495.0	101	254	39.76	96.95
+B7KFS2	sp|B7KFS2|LPXA_GLOC7 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Gloeothece citriformis (s	276	1.27556e-60	195.667	496.0	101	253	39.92	96.56
+Q9PJL1	sp|Q9PJL1|LPXA_CHLMU Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlamydia muridarum (stra	280	2.60229e-60	195.282	495.0	108	256	42.19	97.71
+Q6G1J6	sp|Q6G1J6|LPXA_BARQU Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Bartonella quintana (stra	274	2.65031e-60	194.897	494.0	103	245	42.04	93.51
+A8Z6P9	sp|A8Z6P9|LPXA_CAMC1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Campylobacter concisus (s	262	2.77001e-60	194.512	493.0	101	255	39.61	97.33
+B9KDS6	sp|B9KDS6|LPXA_CAMLR Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Campylobacter lari (strai	263	4.64695e-60	194.126	492.0	100	255	39.22	97.33
+A6U8L2	sp|A6U8L2|LPXA_SINMW Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Sinorhizobium medicae (st	270	5.72154e-60	194.126	492.0	108	261	41.38	99.62
+B7JW27	sp|B7JW27|LPXA_RIPO1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Rippkaea orientalis (stra	276	7.60986e-60	193.741	491.0	101	252	40.08	96.18
+Q98MC6	sp|Q98MC6|LPXA_RHILO Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Mesorhizobium japonicum (	279	9.88059e-60	193.741	491.0	111	253	43.87	96.56
+A1USE7	sp|A1USE7|LPXA_BARBK Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Bartonella bacilliformis 	274	3.33627e-59	192.2	487.0	104	245	42.45	93.51
+O84536	sp|O84536|LPXA_CHLTR Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlamydia trachomatis ser	280	4.43039e-59	192.2	487.0	106	256	41.41	97.71
+Q3KLG6	sp|Q3KLG6|LPXA_CHLTA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlamydia trachomatis ser	280	4.43039e-59	192.2	487.0	106	256	41.41	97.71
+B0B9Y4	sp|B0B9Y4|LPXA_CHLTB Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlamydia trachomatis ser	280	5.93297e-59	191.815	486.0	106	256	41.41	97.71
+B0B8A5	sp|B0B8A5|LPXA_CHLT2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Chlamydia trachomatis ser	280	5.93297e-59	191.815	486.0	106	256	41.41	97.71
+B2UVD9	sp|B2UVD9|LPXA_HELPS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Helicobacter pylori (stra	270	1.00761e-58	190.66	483.0	102	250	40.8	95.42
+Q9ZJL7	sp|Q9ZJL7|LPXA_HELPJ Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Helicobacter pylori (stra	270	1.07521e-58	190.66	483.0	106	251	42.23	95.8
+A9ISM8	sp|A9ISM8|LPXA_BART1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Bartonella tribocorum (st	270	1.45574e-58	190.274	482.0	101	244	41.39	93.13
+Q8UFL3	sp|Q8UFL3|LPXA_AGRFC Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Agrobacterium fabrum (str	271	1.78246e-58	190.274	482.0	103	228	45.18	87.02
+Q1CRN4	sp|Q1CRN4|LPXA_HELPH Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Helicobacter pylori (stra	270	1.02055e-57	188.348	477.0	106	251	42.23	95.8
+Q17ZK1	sp|Q17ZK1|LPXA_HELAH Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Helicobacter acinonychis 	270	1.06567e-57	188.348	477.0	105	251	41.83	95.8
+A8FK63	sp|A8FK63|LPXA_CAMJ8 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Campylobacter jejuni subs	263	1.07733e-57	187.963	476.0	96	254	37.8	96.95
+A7H597	sp|A7H597|LPXA_CAMJD Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Campylobacter jejuni subs	263	1.66086e-57	187.578	475.0	95	254	37.4	96.95
+O25927	sp|O25927|LPXA_HELPY Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Helicobacter pylori (stra	270	1.7527e-57	187.578	475.0	105	251	41.83	95.8
+A1VXZ8	sp|A1VXZ8|LPXA_CAMJJ Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Campylobacter jejuni subs	263	2.76182e-57	186.808	473.0	96	254	37.8	96.95
+B5Z919	sp|B5Z919|LPXA_HELPG Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Helicobacter pylori (stra	270	3.24663e-57	186.808	473.0	105	251	41.83	95.8
+B6JNP1	sp|B6JNP1|LPXA_HELP2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Helicobacter pylori (stra	270	4.94988e-57	186.422	472.0	104	251	41.43	95.8
+Q9PIM1	sp|Q9PIM1|LPXA_CAMJE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Campylobacter jejuni subs	263	6.634e-57	186.037	471.0	95	254	37.4	96.95
+Q5HWJ2	sp|Q5HWJ2|LPXA_CAMJR Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Campylobacter jejuni (str	263	3.28842e-56	184.111	466.0	94	254	37.01	96.95
+Q9TLX4	sp|Q9TLX4|LPXA_CYACA Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Cyanidium caldarium OX=27	269	1.71915e-54	179.874	455.0	101	259	39.0	98.85
+Q9SU91	sp|Q9SU91|LPXA_ARATH Probable acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase, mitochondrial OS=A	336	5.30862e-54	180.644	457.0	112	293	38.23	111.83
+P65321	sp|P65321|LPXA_BRUSU Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Brucella suis biovar 1 (s	278	1.48505e-53	177.948	450.0	94	255	36.86	97.33
+B0CGU9	sp|B0CGU9|LPXA_BRUSI Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Brucella suis (strain ATC	278	1.48505e-53	177.948	450.0	94	255	36.86	97.33
+A5VQS3	sp|A5VQS3|LPXA_BRUO2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Brucella ovis (strain ATC	278	1.48505e-53	177.948	450.0	94	255	36.86	97.33
+P65320	sp|P65320|LPXA_BRUME Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Brucella melitensis bioty	278	1.48505e-53	177.948	450.0	94	255	36.86	97.33
+C0RJC0	sp|C0RJC0|LPXA_BRUMB Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Brucella melitensis bioty	278	1.48505e-53	177.948	450.0	94	255	36.86	97.33
+A9M5G4	sp|A9M5G4|LPXA_BRUC2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Brucella canis (strain AT	278	1.48505e-53	177.948	450.0	94	255	36.86	97.33
+P0C110	sp|P0C110|LPXA_BRUAB Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Brucella abortus biovar 1	278	1.48505e-53	177.948	450.0	94	255	36.86	97.33
+Q2YRQ5	sp|Q2YRQ5|LPXA_BRUA2 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Brucella abortus (strain 	278	1.48505e-53	177.948	450.0	94	255	36.86	97.33
+B2S601	sp|B2S601|LPXA_BRUA1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Brucella abortus (strain 	278	1.48505e-53	177.948	450.0	94	255	36.86	97.33
+A6X0K1	sp|A6X0K1|LPXA_BRUA4 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Brucella anthropi (strain	278	2.39954e-52	174.866	442.0	95	255	37.25	97.33
+Q0APV5	sp|Q0APV5|LPXD_MARMM UDP-3-O-acylglucosamine N-acyltransferase OS=Maricaulis maris (strain MCS10) OX=394221 GN=lpxD PE=3	344	4.04186e-18	85.8853	211.0	64	190	33.68	72.52
+A8I485	sp|A8I485|LPXD_AZOC5 UDP-3-O-acylglucosamine N-acyltransferase OS=Azorhizobium caulinodans (strain ATCC 43989 / DSM 5975	357	3.068e-17	83.5741	205.0	76	253	30.04	96.56
+Q6N5Q9	sp|Q6N5Q9|LPXD_RHOPA UDP-3-O-acylglucosamine N-acyltransferase OS=Rhodopseudomonas palustris (strain ATCC BAA-98 / CGA00	360	2.51921e-16	80.8777	198.0	60	195	30.77	74.43
+B3Q7J5	sp|B3Q7J5|LPXD_RHOPT UDP-3-O-acylglucosamine N-acyltransferase OS=Rhodopseudomonas palustris (strain TIE-1) OX=395960 GN	360	3.27714e-16	80.4925	197.0	60	195	30.77	74.43
+A1B1F2	sp|A1B1F2|LPXD_PARDP UDP-3-O-acylglucosamine N-acyltransferase OS=Paracoccus denitrificans (strain Pd 1222) OX=318586 GN	364	1.16747e-15	78.9518	193.0	63	244	25.82	93.13
+Q7UEV1	sp|Q7UEV1|LPXD_RHOBA UDP-3-O-acylglucosamine N-acyltransferase OS=Rhodopirellula baltica (strain DSM 10527 / NCIMB 13988	380	3.88457e-15	77.7962	190.0	66	259	25.48	98.85
+Q215E0	sp|Q215E0|LPXD1_RHOPB UDP-3-O-acylglucosamine N-acyltransferase 1 OS=Rhodopseudomonas palustris (strain BisB18) OX=31605	358	8.40882e-15	76.6406	187.0	60	204	29.41	77.86
+P0A3P5	sp|P0A3P5|LPXD_BRUSU UDP-3-O-acylglucosamine N-acyltransferase OS=Brucella suis biovar 1 (strain 1330) OX=204722 GN=lpxD	351	1.00481e-14	76.2554	186.0	67	209	32.06	79.77
+B0CGV1	sp|B0CGV1|LPXD_BRUSI UDP-3-O-acylglucosamine N-acyltransferase OS=Brucella suis (strain ATCC 23445 / NCTC 10510) OX=4701	351	1.00481e-14	76.2554	186.0	67	209	32.06	79.77
+A5VQS5	sp|A5VQS5|LPXD_BRUO2 UDP-3-O-acylglucosamine N-acyltransferase OS=Brucella ovis (strain ATCC 25840 / 63/290 / NCTC 10512	351	1.00481e-14	76.2554	186.0	67	209	32.06	79.77
+P0A3P4	sp|P0A3P4|LPXD_BRUME UDP-3-O-acylglucosamine N-acyltransferase OS=Brucella melitensis biotype 1 (strain ATCC 23456 / CCU	351	1.00481e-14	76.2554	186.0	67	209	32.06	79.77
+C0RJC2	sp|C0RJC2|LPXD_BRUMB UDP-3-O-acylglucosamine N-acyltransferase OS=Brucella melitensis biotype 2 (strain ATCC 23457) OX=5	351	1.00481e-14	76.2554	186.0	67	209	32.06	79.77
+A9M5G6	sp|A9M5G6|LPXD_BRUC2 UDP-3-O-acylglucosamine N-acyltransferase OS=Brucella canis (strain ATCC 23365 / NCTC 10854 / RM-66	351	1.00481e-14	76.2554	186.0	67	209	32.06	79.77
+P0C111	sp|P0C111|LPXD_BRUAB UDP-3-O-acylglucosamine N-acyltransferase OS=Brucella abortus biovar 1 (strain 9-941) OX=262698 GN=	351	1.00481e-14	76.2554	186.0	67	209	32.06	79.77
+Q2YRQ3	sp|Q2YRQ3|LPXD_BRUA2 UDP-3-O-acylglucosamine N-acyltransferase OS=Brucella abortus (strain 2308) OX=359391 GN=lpxD PE=3 	351	1.00481e-14	76.2554	186.0	67	209	32.06	79.77
+B2S603	sp|B2S603|LPXD_BRUA1 UDP-3-O-acylglucosamine N-acyltransferase OS=Brucella abortus (strain S19) OX=430066 GN=lpxD PE=3 S	351	1.00481e-14	76.2554	186.0	67	209	32.06	79.77
+Q8YSL0	sp|Q8YSL0|LPXD_NOSS1 UDP-3-O-acylglucosamine N-acyltransferase OS=Nostoc sp. (strain PCC 7120 / SAG 25.82 / UTEX 2576) O	349	1.3385e-14	75.8702	185.0	62	218	28.44	83.21
+Q3MEX5	sp|Q3MEX5|LPXD_TRIV2 UDP-3-O-acylglucosamine N-acyltransferase OS=Trichormus variabilis (strain ATCC 29413 / PCC 7937) O	349	2.16976e-14	75.0998	183.0	66	245	26.94	93.51
+Q215C1	sp|Q215C1|LPXD2_RHOPB UDP-3-O-acylglucosamine N-acyltransferase 2 OS=Rhodopseudomonas palustris (strain BisB18) OX=31605	373	2.43702e-14	75.0998	183.0	76	225	33.78	85.88
+Q6G1J4	sp|Q6G1J4|LPXD_BARQU UDP-3-O-acylglucosamine N-acyltransferase OS=Bartonella quintana (strain Toulouse) OX=283165 GN=lpx	348	2.61516e-14	75.0998	183.0	68	238	28.57	90.84
+Q7NJG8	sp|Q7NJG8|LPXD1_GLOVI UDP-3-O-acylglucosamine N-acyltransferase 1 OS=Gloeobacter violaceus (strain ATCC 29082 / PCC 7421	349	5.37037e-14	73.9442	180.0	63	210	30.0	80.15
+A5EK46	sp|A5EK46|LPXD_BRASB UDP-3-O-acylglucosamine N-acyltransferase OS=Bradyrhizobium sp. (strain BTAi1 / ATCC BAA-1182) OX=2	355	5.45718e-14	73.9442	180.0	63	218	28.9	83.21
+Q0HGW5	sp|Q0HGW5|LPXD_SHESM UDP-3-O-acylglucosamine N-acyltransferase OS=Shewanella sp. (strain MR-4) OX=60480 GN=lpxD PE=3 SV=	341	5.67804e-14	73.9442	180.0	60	195	30.77	74.43
+Q0HT72	sp|Q0HT72|LPXD_SHESR UDP-3-O-acylglucosamine N-acyltransferase OS=Shewanella sp. (strain MR-7) OX=60481 GN=lpxD PE=3 SV=	341	5.9015e-14	73.9442	180.0	60	195	30.77	74.43
+Q3SMZ4	sp|Q3SMZ4|LPXD2_NITWN UDP-3-O-acylglucosamine N-acyltransferase 2 OS=Nitrobacter winogradskyi (strain ATCC 25391 / DSM 1	341	6.13372e-14	73.9442	180.0	62	200	31.0	76.34
+Q3IIY4	sp|Q3IIY4|LPXD_PSET1 UDP-3-O-acylglucosamine N-acyltransferase OS=Pseudoalteromonas translucida (strain TAC 125) OX=3264	340	6.90824e-14	73.559	179.0	77	254	30.31	96.95
+A4YVF7	sp|A4YVF7|LPXD_BRASO UDP-3-O-acylglucosamine N-acyltransferase OS=Bradyrhizobium sp. (strain ORS 278) OX=114615 GN=lpxD 	355	7.2799e-14	73.9442	180.0	60	218	27.52	83.21
+A9ISM1	sp|A9ISM1|LPXD_BART1 UDP-3-O-acylglucosamine N-acyltransferase OS=Bartonella tribocorum (strain DSM 28219 / CCUG 45778 /	348	9.32737e-14	73.559	179.0	68	218	31.19	83.21
+Q1QA19	sp|Q1QA19|LPXD_PSYCK UDP-3-O-acylglucosamine N-acyltransferase OS=Psychrobacter cryohalolentis (strain ATCC BAA-1226 / D	338	1.53251e-13	72.7886	177.0	62	199	31.16	75.95
+Q10VF5	sp|Q10VF5|LPXD_TRIEI UDP-3-O-acylglucosamine N-acyltransferase OS=Trichodesmium erythraeum (strain IMS101) OX=203124 GN=	345	1.67877e-13	72.7886	177.0	63	214	29.44	81.68
+Q5LS40	sp|Q5LS40|LPXD_RUEPO UDP-3-O-acylglucosamine N-acyltransferase OS=Ruegeria pomeroyi (strain ATCC 700808 / DSM 15171 / DS	363	1.7638e-13	72.7886	177.0	61	237	25.74	90.46
+Q8DMS9	sp|Q8DMS9|LPXD_THEVB UDP-3-O-acylglucosamine N-acyltransferase OS=Thermosynechococcus vestitus (strain NIES-2133 / IAM M	338	1.98739e-13	72.4034	176.0	59	217	27.19	82.82
+Q2W4D3	sp|Q2W4D3|LPXD_PARM1 UDP-3-O-acylglucosamine N-acyltransferase OS=Paramagnetospirillum magneticum (strain ATCC 700264 / 	339	2.37782e-13	72.0182	175.0	61	209	29.19	79.77
+Q2IW89	sp|Q2IW89|LPXD_RHOP2 UDP-3-O-acylglucosamine N-acyltransferase OS=Rhodopseudomonas palustris (strain HaA2) OX=316058 GN=	359	2.43905e-13	72.4034	176.0	60	201	29.85	76.72
+B2IUM5	sp|B2IUM5|LPXD_NOSP7 UDP-3-O-acylglucosamine N-acyltransferase OS=Nostoc punctiforme (strain ATCC 29133 / PCC 73102) OX=	350	2.46359e-13	72.0182	175.0	56	233	24.03	88.93
+Q11IJ0	sp|Q11IJ0|LPXD_CHESB UDP-3-O-acylglucosamine N-acyltransferase OS=Chelativorans sp. (strain BNC1) OX=266779 GN=lpxD PE=3	350	2.63447e-13	72.0182	175.0	73	248	29.44	94.66
+A1WT71	sp|A1WT71|LPXD_HALHL UDP-3-O-acylglucosamine N-acyltransferase OS=Halorhodospira halophila (strain DSM 244 / SL1) OX=349	352	2.74086e-13	72.0182	175.0	62	243	25.51	92.75
+Q7MXT7	sp|Q7MXT7|LPXD_PORGI UDP-3-O-acylglucosamine N-acyltransferase OS=Porphyromonas gingivalis (strain ATCC BAA-308 / W83) O	349	5.58046e-13	71.2478	173.0	78	270	28.89	103.05
+Q1QMM8	sp|Q1QMM8|LPXD_NITHX UDP-3-O-acylglucosamine N-acyltransferase OS=Nitrobacter hamburgensis (strain DSM 10229 / NCIMB 138	361	5.59536e-13	71.2478	173.0	65	215	30.23	82.06
+Q8VQ23	sp|Q8VQ23|LPXD_BARHE UDP-3-O-acylglucosamine N-acyltransferase OS=Bartonella henselae (strain ATCC 49882 / DSM 28221 / C	348	5.82254e-13	71.2478	173.0	64	218	29.36	83.21
+B2RME3	sp|B2RME3|LPXD_PORG3 UDP-3-O-acylglucosamine N-acyltransferase OS=Porphyromonas gingivalis (strain ATCC 33277 / DSM 2070	349	6.19916e-13	70.8626	172.0	78	270	28.89	103.05
+Q136B3	sp|Q136B3|LPXD_RHOPS UDP-3-O-acylglucosamine N-acyltransferase OS=Rhodopseudomonas palustris (strain BisB5) OX=316057 GN	359	8.26999e-13	70.8626	172.0	62	201	30.85	76.72
+B9JEX8	sp|B9JEX8|LPXD_RHIR8 UDP-3-O-acylglucosamine N-acyltransferase OS=Rhizobium rhizogenes (strain K84 / ATCC BAA-868) OX=31	355	1.40973e-12	70.0922	170.0	62	206	30.1	78.63
+O66817	sp|O66817|LPXD_AQUAE UDP-3-O-acylglucosamine N-acyltransferase OS=Aquifex aeolicus (strain VF5) OX=224324 GN=lpxD PE=3 S	326	1.42667e-12	69.707	169.0	64	221	28.96	84.35
+B7KZG7	sp|B7KZG7|LPXD_METC4 UDP-3-O-acylglucosamine N-acyltransferase OS=Methylorubrum extorquens (strain CM4 / NCIMB 13688) OX	351	1.80536e-12	69.707	169.0	77	254	30.31	96.95
+C3MBR0	sp|C3MBR0|LPXD_SINFN UDP-3-O-acylglucosamine N-acyltransferase OS=Sinorhizobium fredii (strain NBRC 101917 / NGR234) OX=	354	1.8666e-12	69.707	169.0	77	255	30.2	97.33
+A9W4H0	sp|A9W4H0|LPXD_METEP UDP-3-O-acylglucosamine N-acyltransferase OS=Methylorubrum extorquens (strain PA1) OX=419610 GN=lpx	351	1.92976e-12	69.707	169.0	77	254	30.31	96.95
+B7JUM7	sp|B7JUM7|LPXD_RIPO1 UDP-3-O-acylglucosamine N-acyltransferase OS=Rippkaea orientalis (strain PCC 8801 / RF-1) OX=41431 	348	1.99425e-12	69.707	169.0	62	235	26.38	89.69
+Q89KQ2	sp|Q89KQ2|LPXD_BRADU UDP-3-O-acylglucosamine N-acyltransferase OS=Bradyrhizobium diazoefficiens (strain JCM 10833 / BCRC	355	2.06239e-12	69.707	169.0	64	219	29.22	83.59
+B1ZLC2	sp|B1ZLC2|LPXD_METPB UDP-3-O-acylglucosamine N-acyltransferase OS=Methylorubrum populi (strain ATCC BAA-705 / NCIMB 1394	351	2.14274e-12	69.3218	168.0	76	254	29.92	96.95
+Q7VC79	sp|Q7VC79|LPXD_PROMA UDP-3-O-acylglucosamine N-acyltransferase OS=Prochlorococcus marinus (strain SARG / CCMP1375 / SS12	345	2.49259e-12	69.3218	168.0	57	216	26.39	82.44
+Q12NX7	sp|Q12NX7|LPXD_SHEDO UDP-3-O-acylglucosamine N-acyltransferase OS=Shewanella denitrificans (strain OS217 / ATCC BAA-1090	340	2.80191e-12	68.9366	167.0	67	249	26.91	95.04
+Q3SRI1	sp|Q3SRI1|LPXD1_NITWN UDP-3-O-acylglucosamine N-acyltransferase 1 OS=Nitrobacter winogradskyi (strain ATCC 25391 / DSM 1	362	3.0505e-12	68.9366	167.0	57	200	28.5	76.34
+Q4FRI2	sp|Q4FRI2|LPXD_PSYA2 UDP-3-O-acylglucosamine N-acyltransferase OS=Psychrobacter arcticus (strain DSM 17307 / VKM B-2377 	338	3.19842e-12	68.9366	167.0	62	199	31.16	75.95
+Q8UFL5	sp|Q8UFL5|LPXD_AGRFC UDP-3-O-acylglucosamine N-acyltransferase OS=Agrobacterium fabrum (strain C58 / ATCC 33970) OX=1762	355	5.22889e-12	68.5514	166.0	61	195	31.28	74.43
+B1LTP6	sp|B1LTP6|LPXD_METRJ UDP-3-O-acylglucosamine N-acyltransferase OS=Methylobacterium radiotolerans (strain ATCC 27329 / DS	353	5.91887e-12	68.1662	165.0	74	241	30.71	91.98
+Q8EGG5	sp|Q8EGG5|LPXD_SHEON UDP-3-O-acylglucosamine N-acyltransferase OS=Shewanella oneidensis (strain ATCC 700550 / JCM 31522 	341	7.2291e-12	67.781	164.0	57	195	29.23	74.43
+B3E0P9	sp|B3E0P9|LPXD_METI4 UDP-3-O-acylglucosamine N-acyltransferase OS=Methylacidiphilum infernorum (isolate V4) OX=481448 GN	351	8.17488e-12	67.781	164.0	55	206	26.7	78.63
+Q3JEI7	sp|Q3JEI7|LPXD_NITOC UDP-3-O-acylglucosamine N-acyltransferase OS=Nitrosococcus oceani (strain ATCC 19707 / BCRC 17464 /	347	1.31434e-11	67.0106	162.0	62	254	24.41	96.95
+Q2K8X9	sp|Q2K8X9|LPXD_RHIEC UDP-3-O-acylglucosamine N-acyltransferase OS=Rhizobium etli (strain ATCC 51251 / DSM 11541 / JCM 21	354	1.36762e-11	67.0106	162.0	55	204	26.96	77.86
+Q2LVL5	sp|Q2LVL5|LPXD_SYNAS UDP-3-O-acylglucosamine N-acyltransferase OS=Syntrophus aciditrophicus (strain SB) OX=56780 GN=lpxD	363	1.47157e-11	67.0106	162.0	60	204	29.41	77.86
+Q15WF3	sp|Q15WF3|LPXD_PSEA6 UDP-3-O-acylglucosamine N-acyltransferase OS=Pseudoalteromonas atlantica (strain T6c / ATCC BAA-108	344	2.31049e-11	66.2402	160.0	63	230	27.39	87.79
+Q3KHA2	sp|Q3KHA2|LPXD_PSEPF UDP-3-O-acylglucosamine N-acyltransferase OS=Pseudomonas fluorescens (strain Pf0-1) OX=205922 GN=lp	351	2.33683e-11	66.6254	161.0	60	194	30.93	74.05
+Q729I2	sp|Q729I2|LPXD_NITV2 UDP-3-O-acylglucosamine N-acyltransferase OS=Nitratidesulfovibrio vulgaris (strain ATCC 29579 / DSM	344	2.5159e-11	66.2402	160.0	68	260	26.15	99.24
+Q9PKF1	sp|Q9PKF1|LPXD_CHLMU UDP-3-O-acylglucosamine N-acyltransferase OS=Chlamydia muridarum (strain MoPn / Nigg) OX=243161 GN=	354	2.88416e-11	66.2402	160.0	77	267	28.84	101.91
+Q7NH24	sp|Q7NH24|LPXD3_GLOVI UDP-3-O-acylglucosamine N-acyltransferase 3 OS=Gloeobacter violaceus (strain ATCC 29082 / PCC 7421	345	3.23145e-11	65.855	159.0	61	232	26.29	88.55
+B6ISU1	sp|B6ISU1|LPXD_RHOCS UDP-3-O-acylglucosamine N-acyltransferase OS=Rhodospirillum centenum (strain ATCC 51521 / SW) OX=41	347	3.32155e-11	65.855	159.0	58	195	29.74	74.43
+Q98MC4	sp|Q98MC4|LPXD_RHILO UDP-3-O-acylglucosamine N-acyltransferase OS=Mesorhizobium japonicum (strain LMG 29417 / CECT 9101 	351	3.74656e-11	65.855	159.0	70	222	31.53	84.73
+A4XWT1	sp|A4XWT1|LPXD_ECTM1 UDP-3-O-acylglucosamine N-acyltransferase OS=Ectopseudomonas mendocina (strain ymp) OX=399739 GN=lp	351	4.48188e-11	65.4698	158.0	61	186	32.8	70.99
+Q5R0Z4	sp|Q5R0Z4|LPXD_IDILO UDP-3-O-acylglucosamine N-acyltransferase OS=Idiomarina loihiensis (strain ATCC BAA-735 / DSM 15497	341	5.92433e-11	65.0846	157.0	51	173	29.48	66.03
+Q2NRL7	sp|Q2NRL7|LPXD_SODGM UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase OS=Sodalis glossinidius (strain morsitans	340	6.66887e-11	65.0846	157.0	57	195	29.23	74.43
+Q312H3	sp|Q312H3|LPXD_OLEA2 UDP-3-O-acylglucosamine N-acyltransferase OS=Oleidesulfovibrio alaskensis (strain ATCC BAA-1058 / D	342	6.85534e-11	65.0846	157.0	62	253	24.51	96.56
+Q1MH46	sp|Q1MH46|LPXD_RHIJ3 UDP-3-O-acylglucosamine N-acyltransferase OS=Rhizobium johnstonii (strain DSM 114642 / LMG 32736 / 	354	8.20632e-11	64.6994	156.0	53	198	26.77	75.57

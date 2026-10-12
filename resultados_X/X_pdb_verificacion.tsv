@@ -1,0 +1,5 @@
+pdb_chain	titulo	metodo	resolucion_A	organismo	largo	identicas	identidad_porc	cobertura_porc	rcsb_url
+1LXA_1	UDP N-ACETYLGLUCOSAMINE ACYLTRANSFERASE	X-RAY DIFFRACTION	2.6	Escherichia coli	262	262	100.0	100.0	https://www.rcsb.org/structure/1LXA
+2AQ9_1	Structure of E. coli LpxA with a bound peptide that is competitive with acyl-ACP	X-RAY DIFFRACTION	1.8	Escherichia coli	262	262	100.0	100.0	https://www.rcsb.org/structure/2AQ9
+2QIA_1	Structural basis for the acyl chain selectivity and mechanism of UDP-N-acetylglucosamine Acyltransfe	X-RAY DIFFRACTION	1.74	Escherichia coli K12	262	262	100.0	100.0	https://www.rcsb.org/structure/2QIA
+4J09_1	Crystal Structure of LpxA bound to RJPXD33	X-RAY DIFFRACTION	1.9	Escherichia coli	262	262	100.0	100.0	https://www.rcsb.org/structure/4J09

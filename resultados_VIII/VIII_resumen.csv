@@ -1,0 +1,4 @@
+query,largo,n_total,n_filtrado,evalue_min,evalue_mediana,ident_mediana,score_max
+completa,133,138,78,3.8077e-97,1.91468e-84,91.27,282.337
+mitad,66,231,79,1.42632e-43,1.17477e-34,89.83,143.28
+cuarto,33,241,90,3.49119e-16,6.026135e-11,92.31,70.8626

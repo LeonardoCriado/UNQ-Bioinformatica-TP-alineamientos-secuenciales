@@ -1,0 +1,21 @@
+accession	descripcion	longitud	evalue	bit_score	score	identidades	alineamiento_len	identidad_%	cobertura_%
+Q3Z5H7	sp|Q3Z5H7|LPXA_SHISS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Shigella sonnei (strain S	262	0.0	533.872	1374.0	262	262	100.0	100.0
+P0A724	sp|P0A724|LPXA_SHIFL Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Shigella flexneri OX=623 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+Q32JS8	sp|Q32JS8|LPXA_SHIDS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Shigella dysenteriae sero	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7LW80	sp|B7LW80|LPXA_ESCF3 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia fergusonii (s	262	0.0	533.872	1374.0	262	262	100.0	100.0
+Q1RG08	sp|Q1RG08|LPXA_ECOUT Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B1LGY3	sp|B1LGY3|LPXA_ECOSM Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B6HZF5	sp|B6HZF5|LPXA_ECOSE Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7N848	sp|B7N848|LPXA_ECOLU Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O17:K52:	262	0.0	533.872	1374.0	262	262	100.0	100.0
+P0A722	sp|P0A722|LPXA_ECOLI Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B1IQG0	sp|B1IQG0|LPXA_ECOLC Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+P0A723	sp|P0A723|LPXA_ECOL6 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O6:H1 (s	262	0.0	533.872	1374.0	262	262	100.0	100.0
+Q0TLF2	sp|Q0TLF2|LPXA_ECOL5 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O6:K15:H	262	0.0	533.872	1374.0	262	262	100.0	100.0
+A1A7M5	sp|A1A7M5|LPXA_ECOK1 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O1:K1 / 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+A7ZWC7	sp|A7ZWC7|LPXA_ECOHS Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O9:H4 (s	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B1XD50	sp|B1XD50|LPXA_ECODH Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+C4ZRS3	sp|C4ZRS3|LPXA_ECOBW Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7M1Y4	sp|B7M1Y4|LPXA_ECO8A Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O8 (stra	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7MP41	sp|B7MP41|LPXA_ECO81 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O81 (str	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7NIE3	sp|B7NIE3|LPXA_ECO7I Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli O7:K1 (s	262	0.0	533.872	1374.0	262	262	100.0	100.0
+B7LGP3	sp|B7LGP3|LPXA_ECO55 Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase OS=Escherichia coli (strain 	262	0.0	533.872	1374.0	262	262	100.0	100.0
